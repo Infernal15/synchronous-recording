@@ -1,0 +1,10 @@
+C:\Users\vlad9\source\repos\synchronous recording\bin\Debug\synchronous recording.exe.config
+C:\Users\vlad9\source\repos\synchronous recording\bin\Debug\synchronous recording.exe
+C:\Users\vlad9\source\repos\synchronous recording\bin\Debug\synchronous recording.pdb
+C:\Users\vlad9\source\repos\synchronous recording\obj\Debug\synchronous recording.csprojAssemblyReference.cache
+C:\Users\vlad9\source\repos\synchronous recording\obj\Debug\synchronous_recording.Form1.resources
+C:\Users\vlad9\source\repos\synchronous recording\obj\Debug\synchronous_recording.Properties.Resources.resources
+C:\Users\vlad9\source\repos\synchronous recording\obj\Debug\synchronous recording.csproj.GenerateResource.cache
+C:\Users\vlad9\source\repos\synchronous recording\obj\Debug\synchronous recording.csproj.CoreCompileInputs.cache
+C:\Users\vlad9\source\repos\synchronous recording\obj\Debug\synchronous recording.exe
+C:\Users\vlad9\source\repos\synchronous recording\obj\Debug\synchronous recording.pdb
